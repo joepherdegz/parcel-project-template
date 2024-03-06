@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "goit-js-hw-10",
+=======
+  "name": "goit-js-hw-08",
+>>>>>>> 14555752998a6aa7f3989c98e8709e003178861d
   "version": "2.0.0",
   "description": "",
   "homepage": "https://joepherdegz.github.io/goit-js-hw-10",
@@ -9,16 +13,27 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/joepherdegz/goit-js-hw-10.git"
+=======
+    "url": "git+https://github.com/joepherdegz/goit-js-hw-08.git"
+>>>>>>> 14555752998a6aa7f3989c98e8709e003178861d
   },
   "keywords": [],
   "author": "Joepher De Guzman <joepherdegz@yahoo.com>",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/joepherdegz/goit-js-hw-10/issues"
+=======
+    "url": "https://github.com/joepherdegz/goit-js-hw-08/issues"
+>>>>>>> 14555752998a6aa7f3989c98e8709e003178861d
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "@vimeo/player": "^2.21.0",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.14.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
